@@ -1,0 +1,17 @@
+#output, .colorSquare{
+  height: 150px;
+  width: 150px;
+}
+
+#red{
+   background-color: red;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#green{
+  background-color: green;
+}
+
